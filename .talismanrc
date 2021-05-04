@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: src/test/java/com/restassured/Postmethod.java
+  checksum: d5cd9ad6b38019e016c8f2f9a8c0606520cc6a36991f1b2151ada7e9046ed6ac

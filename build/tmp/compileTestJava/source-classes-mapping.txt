@@ -1,0 +1,10 @@
+com/restassured/PutMethod.java
+ com.restassured.PutMethod
+com/restassured/PatchMethod.java
+ com.restassured.PatchMethod
+com/restassured/GetMethod.java
+ com.restassured.GetMethod
+com/restassured/Postmethod.java
+ com.restassured.Postmethod
+com/restassured/DeleteMethod.java
+ com.restassured.DeleteMethod
